@@ -6,7 +6,7 @@ This is a simple streamlit app where you can upload any csv file and get insight
 
 2. Clone the repository. 
 ```
-git clone https://github.com/sudarshan-koirala/chat-with-csv.git
+git clone https://github.com/Abuamany/People-Predict
 ```
 
 3. Once cloned, go inside the repository or folder.
